@@ -1,7 +1,7 @@
 <div align="center">
   <!-- <a href="https://gzmland.ru/" target="_blank"><img src="https://media.giphy.com/media/YlmI36YAWe7KScC7hK/source.gif" width="280" height="auto" /></a> -->
   <!-- <a href="https://gzmland.ru/" target="_blank"><img src="https://media.giphy.com/media/YlmI36YAWe7KScC7hK/source.gif" width="280" height="auto" /></a> -->
-  <a href="https://gzmland.ru/" target="_blank"><img src="img/source-8.gif" width="700" height="auto" /></a>
+  <!-- <a href="https://gzmland.ru/" target="_blank"><img src="img/source-8.gif" width="700" height="auto" /></a> -->
 </div>
 
 <!--
