@@ -4,7 +4,7 @@
   <!-- <a href="https://gzmland.ru/" target="_blank"><img src="img/source-8.gif" width="700" height="auto" /></a> -->
 </div>
 
-<img align="left" src="img/source-9.gif " width="300" height="auto">
+<img align="left" src="img/source-10.png " width="200" height="auto">
 
 [![instagram](https://img.shields.io/badge/-@adkasyv-313131?style=flat-square&labelColor=313131&logo=instagram&logoColor=white&color=313131)](https://instagram.com/adkasyv)
 
