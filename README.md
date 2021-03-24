@@ -13,7 +13,7 @@
 [![linkedin](https://img.shields.io/badge/-@adkasyv-313131?style=flat-square&labelColor=313131&logo=VK&logoColor=white&color=313131)](https://vk.com/adkasyv)  
 [![telegram](https://img.shields.io/badge/-@adkasyv-313131?style=flat-square&labelColor=313131&logo=Telegram&logoColor=#000000&color=313131)](https://t.me/adkasyv)
 
-says he **loves** generation \\\ Z //... **doesn't say!** otherwise
+Says he **loves** generation \\\ Z //... **doesn't say!** otherwise
 
 <!--
 **adkasyv/adkasyv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
