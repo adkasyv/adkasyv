@@ -8,10 +8,10 @@
 <img align="left" src="img/source-15.gif" width="100" height="auto">
 
 <!-- [![fomo](https://img.shields.io/badge/fomo-0xR83429154B6E4B90-313131?style=flat-square&labelColor=313131&color=313131)](https://en.wikipedia.org/wiki/Fear_of_missing_out)   -->
-[![fomo](https://img.shields.io/badge/fomo-0xR83441-3366ff?style=flat-square&labelColor=3366ff&color=3366ff)](https://en.wikipedia.org/wiki/Fear_of_missing_out)  
-[![instagram](https://img.shields.io/badge/-@adkasyv-3366ff?style=flat-square&labelColor=3366ff&logo=instagram&logoColor=white&color=3366ff)](https://instagram.com/adkasyv)  
-[![linkedin](https://img.shields.io/badge/-@adkasyv-3366ff?style=flat-square&labelColor=3366ff&logo=VK&logoColor=white&color=3366ff)](https://vk.com/adkasyv)  
-[![telegram](https://img.shields.io/badge/-@adkasyv-3366ff?style=flat-square&labelColor=3366ff&logo=Telegram&logoColor=#000000&color=3366ff)](https://t.me/adkasyv)
+[![fomo](https://img.shields.io/badge/fomo-0xR83441-1D19AC?style=flat-square&labelColor=1D19AC&color=1D19AC)](https://en.wikipedia.org/wiki/Fear_of_missing_out)  
+[![instagram](https://img.shields.io/badge/-@adkasyv-1D19AC?style=flat-square&labelColor=1D19AC&logo=instagram&logoColor=white&color=1D19AC)](https://instagram.com/adkasyv)  
+[![linkedin](https://img.shields.io/badge/-@adkasyv-1D19AC?style=flat-square&labelColor=1D19AC&logo=VK&logoColor=white&color=1D19AC)](https://vk.com/adkasyv)  
+[![telegram](https://img.shields.io/badge/-@adkasyv-1D19AC?style=flat-square&labelColor=1D19AC&logo=Telegram&logoColor=#000000&color=1D19AC)](https://t.me/adkasyv)
 
 Says he **loves** generation \\\ Z //... **doesn't say!** otherwise
 
