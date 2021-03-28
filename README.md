@@ -14,9 +14,15 @@
   <img src="img/source-21.gif" width="100" height="auto">
 </div>
 
-[![instagram](https://img.shields.io/badge/-@adkasyv-fffacd?style=flat-square&labelColor=fffacd&logo=instagram&logoColor=white&color=fffacd)](https://instagram.com/adkasyv)
-[![linkedin](https://img.shields.io/badge/-@adkasyv-fffacd?style=flat-square&labelColor=fffacd&logo=VK&logoColor=white&color=fffacd)](https://vk.com/adkasyv)
-[![telegram](https://img.shields.io/badge/-@adkasyv-fffacd?style=flat-square&labelColor=fffacd&logo=Telegram&logoColor=#000000&color=fffacd)](https://t.me/adkasyv)
+<!-- [![instagram](https://img.shields.io/badge/-@adkasyv-e6e6e6?style=flat-square&labelColor=e6e6e6&logo=instagram&logoColor=white&color=e6e6e6)](https://instagram.com/adkasyv)
+[![linkedin](https://img.shields.io/badge/-@adkasyv-e6e6e6?style=flat-square&labelColor=e6e6e6&logo=VK&logoColor=white&color=e6e6e6)](https://vk.com/adkasyv)
+[![telegram](https://img.shields.io/badge/-@adkasyv-e6e6e6?style=flat-square&labelColor=e6e6e6&logo=Telegram&logoColor=#000000&color=e6e6e6)](https://t.me/adkasyv) -->
+
+<p align="center">
+  <a href="https://instagram.com/adkasyv" target="_blank"><img align="center" src="https://img.shields.io/badge/-@adkasyv-e6e6e6?style=flat-square&labelColor=e6e6e6&logo=instagram&logoColor=white&color=e6e6e6" alt="dephraiim" height="20" width="20" /></a>
+  <a href="https://vk.com/adkasyv" target="_blank"><img align="center" src="https://img.shields.io/badge/-@adkasyv-e6e6e6?style=flat-square&labelColor=e6e6e6&logo=VK&logoColor=white&color=e6e6e6" alt="dephraiim" height="20" width="20" /></a>
+  <a href="https://t.me/adkasyv" target="_blank"><img align="center" src="https://img.shields.io/badge/-@adkasyv-e6e6e6?style=flat-square&labelColor=e6e6e6&logo=Telegram&logoColor=#000000&color=e6e6e6" alt="dephraiim" height="20" width="20" /></a>
+</p>
 
 <!-- Says he **loves** generation \\\ Z //... **doesn't say!** otherwise -->
 
