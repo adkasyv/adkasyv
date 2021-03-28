@@ -5,13 +5,13 @@
 <!-- </div> -->
 
 <!-- <img align="left" src="img/source-10.png " width="180" height="auto"> -->
-<div align="left">
-  <img src="img/source-16.gif" width="130" height="auto">
-  <img src="img/source-17.gif" width="130" height="auto">
-  <img src="img/source-18.gif" width="130" height="auto">
-  <img src="img/source-19.gif" width="130" height="auto">
-  <img src="img/source-20.gif" width="130" height="auto">
-  <img src="img/source-21.gif" width="130" height="auto">
+<div align="center">
+  <img src="img/source-16.gif" width="100" height="auto">
+  <img src="img/source-17.gif" width="100" height="auto">
+  <img src="img/source-18.gif" width="100" height="auto">
+  <img src="img/source-19.gif" width="100" height="auto">
+  <img src="img/source-20.gif" width="100" height="auto">
+  <img src="img/source-21.gif" width="100" height="auto">
 </div>
 
 <!--
