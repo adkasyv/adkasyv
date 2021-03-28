@@ -13,7 +13,7 @@
 [![linkedin](https://img.shields.io/badge/-@adkasyv-223971?style=flat-square&labelColor=223971&logo=VK&logoColor=white&color=223971)](https://vk.com/adkasyv)  
 [![telegram](https://img.shields.io/badge/-@adkasyv-223971?style=flat-square&labelColor=223971&logo=Telegram&logoColor=#000000&color=223971)](https://t.me/adkasyv)
 
-Says he **loves** generation \\\ Z //... **doesn't say!** otherwise
+Everyday practice shows that the existing structure of the organization directly depends on the system of large-scale changes in a number of parameters!
 
 <!--
 **adkasyv/adkasyv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
