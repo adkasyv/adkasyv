@@ -8,7 +8,6 @@
 <img align="left" src="img/source-15.gif" width="100" height="auto">
 
 <!-- [![fomo](https://img.shields.io/badge/fomo-0xR83429154B6E4B90-313131?style=flat-square&labelColor=313131&color=313131)](https://en.wikipedia.org/wiki/Fear_of_missing_out)   -->
-[![read](https://img.shields.io/badge/read-223971?style=flat-square&labelColor=223971&color=223971)](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B0%D0%BD%D1%8C%D1%8F_%E2%80%94_%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0_%D0%B1%D0%B0%D1%80%D0%B0%D0%BD%D1%8C%D1%8F)  
 [![instagram](https://img.shields.io/badge/-@adkasyv-223971?style=flat-square&labelColor=223971&logo=instagram&logoColor=white&color=223971)](https://instagram.com/adkasyv)  
 [![linkedin](https://img.shields.io/badge/-@adkasyv-223971?style=flat-square&labelColor=223971&logo=VK&logoColor=white&color=223971)](https://vk.com/adkasyv)  
 [![telegram](https://img.shields.io/badge/-@adkasyv-223971?style=flat-square&labelColor=223971&logo=Telegram&logoColor=#000000&color=223971)](https://t.me/adkasyv)
