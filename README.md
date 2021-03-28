@@ -6,18 +6,19 @@
 
 <!-- <img align="left" src="img/source-10.png " width="180" height="auto"> -->
 <div align="center">
-  <img src="img/source-16.gif" width="100" height="auto">
-  <img src="img/source-17.gif" width="100" height="auto">
-  <img src="img/source-18.gif" width="100" height="auto">
-  <img src="img/source-19.gif" width="100" height="auto">
-  <img src="img/source-20.gif" width="100" height="auto">
-  <img src="img/source-21.gif" width="100" height="auto">
-  <img src="img/source-22.gif" width="100" height="auto">
+  <img src="img/source-16.gif" width="200" height="auto">
+  <img src="img/source-18.gif" width="200" height="auto">
+  <img src="img/source-19.gif" width="200" height="auto">
+  <img src="img/source-20.gif" width="200" height="auto">
+  <img src="img/source-21.gif" width="200" height="auto">
+  <img src="img/source-22.gif" width="200" height="auto">
 </div>
 
-<!-- [![instagram](https://img.shields.io/badge/-@adkasyv-313131?style=flat-square&labelColor=313131&logo=instagram&logoColor=white&color=313131)](https://instagram.com/adkasyv)
+<!-- 
+[![instagram](https://img.shields.io/badge/-@adkasyv-313131?style=flat-square&labelColor=313131&logo=instagram&logoColor=white&color=313131)](https://instagram.com/adkasyv)
 [![linkedin](https://img.shields.io/badge/-@adkasyv-313131?style=flat-square&labelColor=313131&logo=VK&logoColor=white&color=313131)](https://vk.com/adkasyv)
-[![telegram](https://img.shields.io/badge/-@adkasyv-313131?style=flat-square&labelColor=313131&logo=Telegram&logoColor=#000000&color=313131)](https://t.me/adkasyv) --> -->
+[![telegram](https://img.shields.io/badge/-@adkasyv-313131?style=flat-square&labelColor=313131&logo=Telegram&logoColor=#000000&color=313131)](https://t.me/adkasyv)
+ -->
 
 <!-- Says he **loves** generation \\\ Z //... **doesn't say!** otherwise -->
 
