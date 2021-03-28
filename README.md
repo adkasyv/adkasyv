@@ -19,7 +19,7 @@
 [![telegram](https://img.shields.io/badge/-@adkasyv-e6e6e6?style=flat-square&labelColor=e6e6e6&logo=Telegram&logoColor=#000000&color=e6e6e6)](https://t.me/adkasyv) -->
 
 <p align="center">
-  <a href="https://instagram.com/adkasyv" target="_blank"><img align="center" src="https://img.shields.io/badge/@adkasyv-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="dephraiim"/></a>
+  <a href="https://instagram.com/adkasyv" target="_blank"><img align="center" src="https://img.shields.io/badge/@adkasyv-%231DA1F2.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="dephraiim"/></a>
   <a href="https://vk.com/adkasyv" target="_blank"><img align="center" src="https://img.shields.io/badge/@adkasyv-%231DA1F2.svg?&style=flat-square&logo=VK&logoColor=white&color=071A2C" alt="dephraiim"/></a>
   <a href="https://t.me/adkasyv" target="_blank"><img align="center" src="https://img.shields.io/badge/@adkasyv-%231DA1F2.svg?&style=flat-square&logo=Telegram&logoColor=white&color=071A2C" alt="dephraiim"/></a>
 </p>
