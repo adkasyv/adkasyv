@@ -20,8 +20,8 @@
 
 <p align="center">
   <a href="https://instagram.com/adkasyv" target="_blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="dephraiim"/></a>
-  <a href="https://vk.com/adkasyv" target="_blank"><img align="center" src="https://img.shields.io/badge/VK-%23E4405F.svg?&style=for-the-badge&logo=VK&logoColor=white&color=#4c75a3" alt="Telegram"/></a>
-  <a href="https://t.me/adkasyv" target="_blank"><img align="center" src="https://img.shields.io/badge/telegram-%23E4405F.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=#0088cc" alt="Telegram"/></a>
+  <a href="https://vk.com/adkasyv" target="_blank"><img align="center" src="https://img.shields.io/badge/VK-%4c75a3.svg?&style=for-the-badge&logo=VK&logoColor=white" alt="Telegram"/></a>
+  <a href="https://t.me/adkasyv" target="_blank"><img align="center" src="https://img.shields.io/badge/telegram-%0088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
 
 <!-- Says he **loves** generation \\\ Z //... **doesn't say!** otherwise -->
