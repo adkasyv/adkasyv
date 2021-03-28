@@ -14,11 +14,9 @@
   <img src="img/source-21.gif" width="100" height="auto">
 </div>
 
-<div align="center">
-  [![instagram](https://img.shields.io/badge/-@adkasyv-313131?style=flat-square&labelColor=313131&logo=instagram&logoColor=white&color=313131)](https://instagram.com/adkasyv)
-  [![linkedin](https://img.shields.io/badge/-@adkasyv-313131?style=flat-square&labelColor=313131&logo=VK&logoColor=white&color=313131)](https://vk.com/adkasyv)
-  [![telegram](https://img.shields.io/badge/-@adkasyv-313131?style=flat-square&labelColor=313131&logo=Telegram&logoColor=#000000&color=313131)](https://t.me/adkasyv)
-</div>
+[![instagram](https://img.shields.io/badge/-@adkasyv-fffacd?style=flat-square&labelColor=fffacd&logo=instagram&logoColor=white&color=fffacd)](https://instagram.com/adkasyv)
+[![linkedin](https://img.shields.io/badge/-@adkasyv-fffacd?style=flat-square&labelColor=fffacd&logo=VK&logoColor=white&color=fffacd)](https://vk.com/adkasyv)
+[![telegram](https://img.shields.io/badge/-@adkasyv-fffacd?style=flat-square&labelColor=fffacd&logo=Telegram&logoColor=#000000&color=fffacd)](https://t.me/adkasyv)
 
 <!-- Says he **loves** generation \\\ Z //... **doesn't say!** otherwise -->
 
