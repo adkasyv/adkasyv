@@ -9,9 +9,9 @@
   <img src="img/source-16.gif" width="130" height="auto">
   <img src="img/source-18.gif" width="130" height="auto">
   <img src="img/source-19.gif" width="130" height="auto">
-  <!-- <img src="img/source-20.gif" width="200" height="auto"> -->
+  <img src="img/source-20.gif" width="130" height="auto">
   <img src="img/source-21.gif" width="130" height="auto">
-  <!-- <img src="img/source-22.gif" width="200" height="auto"> -->
+  <img src="img/source-22.gif" width="130" height="auto">
 </div>
 
 <!--
