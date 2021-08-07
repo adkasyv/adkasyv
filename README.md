@@ -10,11 +10,14 @@
 <!-- 	<a href="https://weibo.com/5681818134"><img src="imgs/weibo.svg" alt="微博"></a> -->
 </p>
 
-<p align="center"> How to ree`a`ch me  
+<p align="center"> How to ree~a~ch me  
 
-	Website:<a href="https://gzmland.ru">adkasyv</a>
+Website:<a href="https://gzmland.ru">adkasyv</a>
+Email:<a href="https://gzmland.ru">kasymbekov01384@gmail.com</a>
+	
+- Website: [adkasyv](https://gzmland.ru)
+- Email: [kasymbekov01384@gmail.com](mailto:kasymbekov01384@gmail.com)
 
-	Email:<a href="https://gzmland.ru">kasymbekov01384@gmail.com</a>
 </p>
 
 <!-- <div align="center"> -->
