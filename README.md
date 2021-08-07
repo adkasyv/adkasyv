@@ -1,3 +1,29 @@
+<p align="center">
+	<a href="https://github.com/adkasyv"><img src="imgs/github.svg" alt="GitHub"></a>
+	<a href="https://twitter.com/TerryTangYuan"><img src="imgs/twitter.svg" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/adkasyv/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+<!-- 	<a href="https://github.com/sponsors/terrytangyuan"><img src="imgs/sponsors.svg" alt="Sponsors"></a> -->
+	<a href="https://terrytangyuan.github.io/cv.html"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
+<!-- 	<a href="https://scholar.google.com/citations?user=2GYttqUAAAAJ&hl=en"><img src="imgs/citations.svg" alt="Citations"></a> -->
+<!-- 	<a href="https://www.zhihu.com/people/terrytangyuan"><img src="imgs/zhihu.svg" alt="知乎"></a> -->
+<!-- 	<a href="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/wechat-qr-code.png"><img src="imgs/wechat.svg" alt="微信"></a> -->
+<!-- 	<a href="https://weibo.com/5681818134"><img src="imgs/weibo.svg" alt="微博"></a> -->
+</p>
+
+<p align="center">👉 Check out what I've been working on 
+	<a href="https://github.com/sponsors/terrytangyuan">here</a> and follow me on <a href="https://twitter.com/TerryTangYuan">Twitter</a> and <a href="https://www.linkedin.com/in/terrytangyuan">LinkedIn</a> for updates!
+</p>
+<p align="center">🔥 Check out my new book 
+	<a href="https://bit.ly/2RKv8Zo">Distributed Machine Learning Patterns</a> from Manning Publications!
+</p>
+
+
+
+
+
+
+
+
 <!-- <div align="center"> -->
   <!-- <a href="https://gzmland.ru/" target="_blank"><img src="https://media.giphy.com/media/YlmI36YAWe7KScC7hK/source.gif" width="280" height="auto" /></a> -->
   <!-- <a href="https://gzmland.ru/" target="_blank"><img src="https://media.giphy.com/media/YlmI36YAWe7KScC7hK/source.gif" width="280" height="auto" /></a> -->
@@ -5,14 +31,14 @@
 <!-- </div> -->
 
 <!-- <img align="left" src="img/source-10.png " width="180" height="auto"> -->
-<div align="center">
+<!-- <div align="center">
   <img src="img/source-16.gif" width="100" height="auto">
   <img src="img/source-17.gif" width="100" height="auto">
   <img src="img/source-18.gif" width="100" height="auto">
   <img src="img/source-19.gif" width="100" height="auto">
   <img src="img/source-20.gif" width="100" height="auto">
   <img src="img/source-21.gif" width="100" height="auto">
-</div>
+</div> -->
 
 <!-- [![instagram](https://img.shields.io/badge/-@adkasyv-e6e6e6?style=flat-square&labelColor=e6e6e6&logo=instagram&logoColor=white&color=e6e6e6)](https://instagram.com/adkasyv)
 [![linkedin](https://img.shields.io/badge/-@adkasyv-e6e6e6?style=flat-square&labelColor=e6e6e6&logo=VK&logoColor=white&color=e6e6e6)](https://vk.com/adkasyv)
