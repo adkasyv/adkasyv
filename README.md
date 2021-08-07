@@ -5,6 +5,17 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-fff?style=flat&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/zjayers/)
 
 </center>
+<p align="center">
+	<a href="https://github.com/adkasyv"><img src="img/github.svg" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/adkasyv"><img src="img/linkedin.svg" alt="LinkedIn"></a>
+	<a href="https://gzmland.ru/"><img src="img/cv.svg" alt="Curriculum Vitae"></a>
+</p>
+
+
+
+
+
+
 
 <p align="center">How to ree/a/ch me:  
 	<a href="https://gzmland.ru/">website</a> and  <a href="https://gzmland.ru/">email</a>
