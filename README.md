@@ -11,7 +11,8 @@
 </p>
 
 <p align="center">How to ree(a)ch me  
-	<a href="https://gzmland.ru/">site_name -- Email: [kasymbekov01384@gmail.com](mailto:kasymbekov01384@gmail.com)
+	<a href="https://gzmland.ru/">site_name -- 
+	Email: [kasymbekov01384@gmail.com](mailto:kasymbekov01384@gmail.com)
 </p>
 
 
