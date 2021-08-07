@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">How to ree(a)ch me  
-- Website: [adkasyv](https://gzmland.ru)
-- Email: [kasymbekov01384@gmail.com](kasymbekov01384@gmail.com)
+- Website: [https://gzmland.ru]
+- Email: [kasymbekov01384@gmail.com]
 </p>
 
 
