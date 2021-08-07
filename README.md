@@ -1,7 +1,7 @@
 <p align="center">
-	[![Github](https://img.shields.io/badge/-Github-fff?style=flat&logo=Github&logoColor=black)](https://github.com/adkasyv)
-	<a href="https://www.linkedin.com/in/adkasyv/"><img src="img/linkedin.svg" alt="LinkedIn"></a>
-	<a href="https://gzmland.ru/"><img src="img/cv.svg" alt="Curriculum Vitae"></a>
+[![Github](https://img.shields.io/badge/-Github-fff?style=flat&logo=Github&logoColor=black)](https://github.com/adkasyv)
+<a href="https://www.linkedin.com/in/adkasyv/"><img src="img/linkedin.svg" alt="LinkedIn"></a>
+<a href="https://gzmland.ru/"><img src="img/cv.svg" alt="Curriculum Vitae"></a>
 
 <!-- 	<a href="https://github.com/adkasyv"><img src="img/github.svg" alt="GitHub"></a> -->
 <!-- 	<a href="https://twitter.com/TerryTangYuan"><img src="imgs/twitter.svg" alt="Twitter"></a> -->
