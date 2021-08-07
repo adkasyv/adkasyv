@@ -17,6 +17,17 @@
 
 
 
+<p align="center">
+	<a href="https://gzmland.ru">Website</a><a href="https://gzmland.ru">Email</a>
+</p>
+<p align="center">🔥 Check out my new book 
+	<a href="https://bit.ly/2RKv8Zo">Distributed Machine Learning Patterns</a> from Manning Publications!
+</p>
+
+
+
+
+
 <!-- <div align="center"> -->
   <!-- <a href="https://gzmland.ru/" target="_blank"><img src="https://media.giphy.com/media/YlmI36YAWe7KScC7hK/source.gif" width="280" height="auto" /></a> -->
   <!-- <a href="https://gzmland.ru/" target="_blank"><img src="https://media.giphy.com/media/YlmI36YAWe7KScC7hK/source.gif" width="280" height="auto" /></a> -->
