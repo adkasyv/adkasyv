@@ -1,10 +1,3 @@
-<center>
-
-[![CV](https://img.shields.io/badge/-CV-red?style=flat&logo=appveyor&logoColor=white)](https://zachayers.io)
-[![Github](https://img.shields.io/badge/-Github-fff?style=flat&logo=Github&logoColor=black)](https://github.com/zjayers)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-fff?style=flat&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/zjayers/)
-
-</center>
 <p align="center">
 	<a href="https://github.com/adkasyv"><img src="img/github.svg" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/adkasyv"><img src="img/linkedin.svg" alt="LinkedIn"></a>
