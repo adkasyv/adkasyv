@@ -10,16 +10,10 @@
 <!-- 	<a href="https://weibo.com/5681818134"><img src="imgs/weibo.svg" alt="微博"></a> -->
 </p>
 
-<p align="center"> How to ree(a)ch me
-	<a href="https://gzmland.ru">Website</a> <a href="https://gzmland.ru">Email</a>
+<p align="center"> How to ree(a)ch me  
+	Website:<a href="https://gzmland.ru">adkasyv</a>   
+	Email:<a href="https://gzmland.ru">kasymbekov01384@gmail.com</a>
 </p>
-<p align="center">🔥 Check out my new book 
-	<a href="https://bit.ly/2RKv8Zo">Distributed Machine Learning Patterns</a> from Manning Publications!
-</p>
-
-
-
-
 
 <!-- <div align="center"> -->
   <!-- <a href="https://gzmland.ru/" target="_blank"><img src="https://media.giphy.com/media/YlmI36YAWe7KScC7hK/source.gif" width="280" height="auto" /></a> -->
