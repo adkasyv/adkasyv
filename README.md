@@ -4,7 +4,7 @@
 	<a href="https://gzmland.ru/"><img src="img/cv.svg" alt="Curriculum Vitae"></a>
 </p>
 
-<p align="center">How to <del>enrich</del> reach me:  
+<p align="center">How to <del>en</del>reach me:  
 	<a href="https://gzmland.ru/">website</a> and  <a href="https://gzmland.ru/">email</a>
 </p>
 
