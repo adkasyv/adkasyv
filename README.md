@@ -8,13 +8,6 @@
 	<a href="https://gzmland.ru/">website</a> and  <a href="mailto:kasymbekov01384@gmail.com">email</a>
 </p>
 
-
- 
- 
- 
- 
- 
- 
  
  
  
