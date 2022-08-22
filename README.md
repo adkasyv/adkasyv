@@ -1,11 +1,11 @@
 <p align="center">
-	<a href="https://github.com/adkasyv"><img src="img/github.svg" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/adkasyv"><img src="img/linkedin.svg" alt="LinkedIn"></a>
-	<a href="https://gzmland.ru/"><img src="img/cv.svg" alt="Curriculum Vitae"></a>
+	<a target="_blank" href="https://github.com/adkasyv"><img src="img/github.svg" alt="GitHub"></a>
+	<a target="_blank" href="https://www.linkedin.com/in/adkasyv"><img src="img/linkedin.svg" alt="LinkedIn"></a>
+	<a target="_blank" href="https://gzmland.ru/"><img src="img/cv.svg" alt="Curriculum Vitae"></a>
 </p>
 
 <p align="center">How to <del>en</del>reach me:  
-	<a href="https://adkasyv.github.io/my_site/">website</a> and  <a href="mailto:kasymbekov01384@gmail.com">email</a>
+	<a target="_blank" href="https://adkasyv.github.io/my_site/">website</a> and  <a href="mailto:kasymbekov01384@gmail.com">email</a>
 </p>
  
 
