@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">How to <del>en</del>reach me:  
-	<a href="https://gzmland.ru/">website</a> and  <a href="mailto:kasymbekov01384@gmail.com">email</a>
+	<a href="https://adkasyv.github.io/my_site/">website</a> and  <a href="mailto:kasymbekov01384@gmail.com">email</a>
 </p>
  
 
