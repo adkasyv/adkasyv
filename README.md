@@ -1,5 +1,5 @@
 <p align="center">
-	<a target="_blank" href="https://github.com/adkasyv"><img src="img/github.svg" alt="GitHub"></a>
+<!-- 	<a target="_blank" href="https://github.com/adkasyv"><img src="img/github.svg" alt="GitHub"></a> -->
 	<a target="_blank" href="https://www.linkedin.com/in/adkasyv"><img src="img/linkedin.svg" alt="LinkedIn"></a>
 	<a target="_blank" href="https://gzmland.ru/"><img src="img/cv.svg" alt="Curriculum Vitae"></a>
 </p>
