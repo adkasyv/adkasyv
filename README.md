@@ -12,7 +12,7 @@
 
 <p align="center">
 	<!-- 	<a target="_blank" href="#"><img src="https://leetcard.jacoblin.cool/adkasyv?theme=unicorn&font=Abel" alt="leetcode"></a>-->
- 	<a target="_blank" href="https://leetcode.com/adkasyv/"><img src="https://leetcard.jacoblin.cool/adkasyv?theme=light&font=ZCOOL%20QingKe%20HuangYou&ext=heatmap" alt="leetcode"></a>
+ 	<a target="_blank" href="https://leetcode.com/adkasyv/"><img src="https://leetcard.jacoblin.cool/adkasyv?theme=light&font=Noto%20Sans%20Bassa%20Vah&ext=activity" alt="leetcode"></a>
 </p>
 
 
