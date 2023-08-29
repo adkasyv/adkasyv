@@ -10,10 +10,8 @@
 	<a target="_blank" href="https://adkasyv.github.io/portolio_site/">website</a> and  <a href="mailto:kasymbekov01384@gmail.com">email</a>
 </p>
 
-<!-- <p align="center">
-	<!-- 	<a target="_blank" href="#"><img src="https://leetcard.jacoblin.cool/adkasyv?theme=unicorn&font=Abel" alt="leetcode"></a>-->
- 	<1-- <a target="_blank" href="https://leetcode.com/adkasyv/"><img src="https://leetcard.jacoblin.cool/adkasyv?theme=light&font=Noto%20Sans%20Bassa%20Vah&ext=activity" alt="leetcode"></a> -->
-</p>
+<!-- 
+ 	<a target="_blank" href="https://leetcode.com/adkasyv/"><img src="https://leetcard.jacoblin.cool/adkasyv?theme=light&font=Noto%20Sans%20Bassa%20Vah&ext=activity" alt="leetcode"></a> 
 -->
 
 
