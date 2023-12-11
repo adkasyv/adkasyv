@@ -89,14 +89,14 @@ Front-end engineer with a strong focus on interfaces and experiences working rem
 </p>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/adkasyv/">
+   <a target="_blank" href="https://www.linkedin.com/in/adkasyv/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   <a href="https://t.me/adkasyv">
+   <a target="_blank" href="https://t.me/adkasyv">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='https://adkasyv.github.io/portolio_site'>Site</a> / <a href='https://docs.google.com/document/d/1yeUdjn_ZuhxLKSCIv4NI9cSSjZpmfmi1oRFi3q1mrQM/edit?usp=sharing'>Resume</a>
+   📫 How to reach me: <a href='https://adkasyv.github.io/portolio_site'>Site</a> / <a target="_blank" href='https://docs.google.com/document/d/1yeUdjn_ZuhxLKSCIv4NI9cSSjZpmfmi1oRFi3q1mrQM/edit?usp=sharing'>Resume</a>
 
 
 ## 🛠 Technical Stack
