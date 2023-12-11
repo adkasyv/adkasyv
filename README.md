@@ -104,7 +104,7 @@ Front-end engineer with a strong focus on interfaces and experiences working rem
 *   Javascript(ES6),HTML5,CSS3,SCSS,Bootstrap.
 *   Typescript, Node.js, React, JSX, React router-dom (v5|v6), Redux (Thunk and toolkit).
 *   Tailwind, Material Ui, ChakraUi, Swagger, MVC, API, JSON, SEO, UX/UI.
-*   GitHub/GitLab/Gerrit/Bitbucket.
+*   GitHub/GitLab/Bitbucket.
 
 ### My opensource projects
 
