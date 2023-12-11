@@ -97,6 +97,8 @@ Front-end engineer with a strong focus on interfaces and experiences working rem
    </a>
 <p align='center'>
    📫 How to reach me: <a href='mailto:kasymbekov01384@gmail.com'>kasymbekov01384@gmail.com</a>
+      <a href='https://docs.google.com/document/d/1yeUdjn_ZuhxLKSCIv4NI9cSSjZpmfmi1oRFi3q1mrQM/edit?usp=sharing'>Resume</a>
+	
 </p>
 
 
