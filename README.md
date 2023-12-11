@@ -111,6 +111,6 @@ Junior Frontend Developer with more than 1 years. I have excellent knowledge in 
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/adkasyv/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=komarev&color=DE002D">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=adkasyv&color=DE002D">
    </a>
 </div>
