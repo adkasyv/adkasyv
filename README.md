@@ -106,11 +106,11 @@ Junior Frontend Developer with more than 1 years. I have excellent knowledge in 
 
 ### My opensource projects
 
-*   [image-comparison](https://adkasyv.github.io/portolio_site)
+*   [my-site](https://adkasyv.github.io/portolio_site)
 
 
 <div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
+   <a href="https://github.com/adkasyv/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
    </a>
 </div>
