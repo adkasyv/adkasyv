@@ -76,7 +76,9 @@ Here are some ideas to get you started:
 
 
 # Hi, I'm Adil 👋
-Junior Frontend Developer with more than 1 years. I have excellent knowledge in backend development on React/JS. Big part of my acitities is open-source.
+<!-- Junior Frontend Developer with more than 1 years. I have excellent knowledge in backend development on React/JS. Big part of my acitities is open-source. -->
+front-end engineer with a strong focus on interfaces and experiences working remotely from Bishkek, Kyrgyzstan.
+
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=adkasyv&show_icons=true&count_private=true"><img
