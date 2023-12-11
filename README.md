@@ -96,7 +96,7 @@ Front-end engineer with a strong focus on interfaces and experiences working rem
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='https://adkasyv.github.io/portolio_site'>Site</a> / <a target="_blank" href='https://docs.google.com/document/d/1yeUdjn_ZuhxLKSCIv4NI9cSSjZpmfmi1oRFi3q1mrQM/edit?usp=sharing'>Resume</a>
+   📫 How to reach me: <a href='https://adkasyv.github.io/portolio_site'>Site</a> / <a target="_blank" href='https://docs.google.com/document/d/1yeUdjn_ZuhxLKSCIv4NI9cSSjZpmfmi1oRFi3q1mrQM/edit?usp=sharing'>CV</a>
 
 
 ## 🛠 Technical Stack
