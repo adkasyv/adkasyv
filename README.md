@@ -81,9 +81,7 @@ Front-end engineer with a strong focus on interfaces and experiences working rem
 
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=adkasyv&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=adkasyv&show_icons=true&count_private=true"/></a>
+   <a target="_blank" href="https://leetcode.com/adkasyv/"><img src="https://leetcard.jacoblin.cool/adkasyv?theme=light&font=Noto%20Sans%20Bassa%20Vah&ext=activity" alt="leetcode"></a> 
    <a href="https://github.com/adkasyv/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=adkasyv&layout=compact"/></a>
 </p>
