@@ -97,10 +97,6 @@ Front-end engineer with a strong focus on interfaces and experiences working rem
    </a>
 <p align='center'>
    📫 How to reach me: <a href='mailto:kasymbekov01384@gmail.com'>kasymbekov01384@gmail.com</a>
-<p align='center'>
-	<a href='https://docs.google.com/document/d/1yeUdjn_ZuhxLKSCIv4NI9cSSjZpmfmi1oRFi3q1mrQM/edit?usp=sharing'>Resume</a>
-	
-</p>
 
 
 ## 🛠 Technical Stack
@@ -109,9 +105,10 @@ Front-end engineer with a strong focus on interfaces and experiences working rem
 *   Tailwind, Material Ui, ChakraUi, Swagger, MVC, API, JSON, SEO, UX/UI.
 *   GitHub/GitLab/Bitbucket.
 
-### My opensource projects
+### My opensource
 
 *   [my-site](https://adkasyv.github.io/portolio_site)
+*   [cv](https://docs.google.com/document/d/1yeUdjn_ZuhxLKSCIv4NI9cSSjZpmfmi1oRFi3q1mrQM/edit?usp=sharing)
 
 
 <div align="center" style="margin: 40px 0">
