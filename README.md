@@ -79,15 +79,6 @@ Here are some ideas to get you started:
 <!-- Junior Frontend Developer with more than 1 years. I have excellent knowledge in backend development on React/JS. Big part of my acitities is open-source. -->
 Front-end engineer with a strong focus on interfaces and experiences working remotely from Bishkek, Kyrgyzstan.
 
-
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=adkasyv&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=adkasyv&show_icons=true&count_private=true"/></a>
-	<a href="https://github.com/adkasyv/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adkasyv&layout=compact"/></a>
-</p>
-
 <p align='center'>
    <a target="_blank" href="https://www.linkedin.com/in/adkasyv/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
